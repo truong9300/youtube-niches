@@ -1,0 +1,19 @@
+# Hidden Japan: Zen — The Way of Mindfulness
+
+**[VISUAL: Zen rock garden at Ryoanji Temple, raked gravel patterns]**
+**VO:** In Kyoto, there's a garden with 15 stones arranged on raked white gravel. From any angle, you can only see 14 at once. It's been puzzling visitors for 500 years. Welcome to the world of Zen.
+
+**[VISUAL: Monk meditating in lotus position]**
+**VO:** Zen Buddhism came from China to Japan in the 12th century. It emphasizes direct experience over scripture. The goal: to see the world as it truly is, without filters.
+
+**[VISUAL: Tea ceremony, matcha being whisked]**
+**VO:** Zen influenced every aspect of Japanese culture. The tea ceremony — chanoyu — is a Zen practice in motion. Every movement is deliberate. Every gesture has meaning.
+
+**[VISUAL: Bamboo forest path, Arashiyama]**
+**VO:** Zen gardens are designed as meditation aids. The raked gravel represents water. The stones represent islands. Walking through them is a form of active meditation.
+
+**[VISUAL: Calligraphy brush writing kanji]**
+**VO:** Even calligraphy — shodo — is Zen. The brush moves too fast for the mind to interfere. It's said that your true self appears in every stroke.
+
+**[VISUAL: Subscribe for more Hidden Japan]**
+**VO:** Zen isn't a religion you join. It's a way of seeing. Subscribe for more journeys into Hidden Japan.
