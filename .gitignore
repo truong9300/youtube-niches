@@ -1,0 +1,11 @@
+# Media files (stored locally, not in git)
+*.mp4
+*.ogg
+*.mp3
+video-samples/
+audio/*.ogg
+audio/*.mp3
+
+# Assets are PNG thumbnails - keep those
+!assets/*.png
+!.gitignore
