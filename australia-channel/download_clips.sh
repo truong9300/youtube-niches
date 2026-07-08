@@ -1,0 +1,56 @@
+#!/data/data/com.termux/files/usr/bin/bash
+mkdir -p /storage/emulated/0/Download/australia-channel/video-clips
+cd /storage/emulated/0/Download/australia-channel/video-clips
+
+echo "Downloading 32 PixVerse clips..."
+curl -sL "https://v3b.fal.media/files/b/0aa16e90/K1xQ6HTQfvT5-dmcJ1Osw_output.mp4" -o "scene-01.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16e94/g0puJSaeO87PcxiNizXRJ_output.mp4" -o "scene-02.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ea1/ES_Rc9K-am0bjTavp1HR1_output.mp4" -o "scene-03.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16e9a/i_WmXpS14kraoRKZ5h-oB_output.mp4" -o "scene-04.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+curl -sL "https://v3b.fal.media/files/b/0aa16e9c/pHv_1hCgvwGbVzW1Xk1xa_output.mp4" -o "scene-05.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ea0/adKnrP6NNFfVxYkThvReg_output.mp4" -o "scene-06.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ea2/dbZfFQm9nRhjDh3Fcxyf7_output.mp4" -o "scene-07.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ea4/g5VnZG1HXa0WLS43xLVJM_output.mp4" -o "scene-08.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+curl -sL "https://v3b.fal.media/files/b/0aa16ea6/IqMXmVqyYPFK-akETT6LM_output.mp4" -o "scene-09.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eaa/JOMr4jpw-GCuAuyfKIUDB_output.mp4" -o "scene-10.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eac/8FjE93bBB71FOC-pyFHTP_output.mp4" -o "scene-11.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eba/xvQ4obLdT8nWch1wX7kMR_output.mp4" -o "scene-12.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+curl -sL "https://v3b.fal.media/files/b/0aa16eb1/BV1QezNrp4xii-GnrtazR_output.mp4" -o "scene-13.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ec0/vjN_x3nfPruzdLqvUmBNO_output.mp4" -o "scene-14.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eb7/B-8Aui-cDGUufmXUuRPGb_output.mp4" -o "scene-15.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eba/N-TIRvxfhCqc4CNLtbYpN_output.mp4" -o "scene-16.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+curl -sL "https://v3b.fal.media/files/b/0aa16ebc/NqZt1EDssmW2-cGZrfE9B_output.mp4" -o "scene-17.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ec2/J4FWZXGeLiStZoeiXcmXy_output.mp4" -o "scene-18.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ec4/d9JwQZ-qZKKNhy__X3FkQ_output.mp4" -o "scene-19.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ec7/tEG66w1c6NtXuxeuyQ-kM_output.mp4" -o "scene-20.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+curl -sL "https://v3b.fal.media/files/b/0aa16ed5/mTQxEpk05J7-zDWdfAhkO_output.mp4" -o "scene-21.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ecd/RpgxaQ_8d8ie3x4CneJdW_output.mp4" -o "scene-22.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ed0/tYzzn7KikxBlqKlMfggda_output.mp4" -o "scene-23.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ed4/D-zXrRVPQ5h_JViVfg-XC_output.mp4" -o "scene-24.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+curl -sL "https://v3b.fal.media/files/b/0aa16ed7/-D_3_U3GMeUiouV6_mPnZ_output.mp4" -o "scene-25.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eda/iauq0f7ZmJ5kTLwAtHMee_output.mp4" -o "scene-26.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16edc/DejjFCEFQtVScsi7H7_dj_output.mp4" -o "scene-27.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16edf/orL6517QFIUnRy4v2Hl5r_output.mp4" -o "scene-28.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+curl -sL "https://v3b.fal.media/files/b/0aa16ee2/4wKKeny2RZR2VWOJgpD6A_output.mp4" -o "scene-29.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16ee7/Qfhg-I5vnxaCSBs7xfVuz_output.mp4" -o "scene-30.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eea/w9dNZVYlC5xQUkvF8fuBI_output.mp4" -o "scene-31.mp4" 2>&1 &
+curl -sL "https://v3b.fal.media/files/b/0aa16eec/0_q1IFGp76mURinMCXoum_output.mp4" -o "scene-32.mp4" 2>&1 &
+wait
+echo 'Batch completed...'
+wait
+echo 'All 32 clips downloaded!'
+ls -lh
